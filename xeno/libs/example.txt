@@ -1,0 +1,6 @@
+Motor[0] SWord:39 Rad/s:314.159271 RPM: 3000 
+Motor[1] SWord:39 Rad/s:-307.876068 RPM: -2940 
+Motor[2] SWord:39 Rad/s:307.876068 RPM: 2940 
+Motor[3] SWord:39 Rad/s:-314.159271 RPM: -3000 
+
+Vx:31.408855 Vy:0.318873 Vc:31.410475 

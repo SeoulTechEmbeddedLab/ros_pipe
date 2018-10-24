@@ -1,0 +1,3 @@
+<launch>
+  <node name="joy_print_node" pkg="joy_print" type="joy_print_node" launch-prefix="sudo -E" output="screen" />
+</launch>
